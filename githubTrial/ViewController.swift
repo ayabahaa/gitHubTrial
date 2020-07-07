@@ -35,6 +35,9 @@ class ViewController: UIViewController {
     func tryNew(){
         print("tryNew :<")
     }
+   func trail(){
+          print("please work b2a ")
+      }
 
 }
 
