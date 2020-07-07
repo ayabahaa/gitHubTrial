@@ -37,9 +37,15 @@ class ViewController: UIViewController {
     }
    func trail(){
           print("please work b2a ")
+
    }
     func fromsayed(){
         print("from sayed")
+=======
+      }
+    func fromAya(){
+        print("aya aya aya  ")
+>>>>>>> aya
     }
 
 }
