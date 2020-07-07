@@ -38,6 +38,9 @@ class ViewController: UIViewController {
    func trail(){
           print("please work b2a ")
       }
+    func fromAya(){
+        print("aya aya aya  ")
+    }
 
 }
 
