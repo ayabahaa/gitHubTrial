@@ -26,6 +26,9 @@ class ViewController: UIViewController {
     func newstyle(){
         print("sadfa")
     }
+    func NewDay(){
+        print("NewDay")
+    }
 
 }
 
