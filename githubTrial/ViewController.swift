@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("thanks")
         print(":) :) :) ")
     }
+    
+    func style(){
+        print(":( :( ")
+    }
 
 
 }
