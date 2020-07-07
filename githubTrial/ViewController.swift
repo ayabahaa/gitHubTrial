@@ -32,6 +32,9 @@ class ViewController: UIViewController {
     func login(){
         print("login")
     }
+    func tryNew(){
+        print("tryNew :<")
+    }
 
 }
 
