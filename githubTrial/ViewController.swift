@@ -13,9 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("thanks")
+<<<<<<< HEAD
         print("aya11")
         print(2222)
         print("ffffffffffffffffffffffsfsgsssgshdurhfehrflre")
+=======
+        print(":) :) :) ")
+>>>>>>> sayed
     }
 
 
