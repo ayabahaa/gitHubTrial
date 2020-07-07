@@ -19,7 +19,9 @@ class ViewController: UIViewController {
     func style(){
         print(":( :( ")
     }
-
+    func newstyle(){
+        print("sadfa")
+    }
 
 }
 
