@@ -29,6 +29,9 @@ class ViewController: UIViewController {
     func NewDay(){
         print("NewDay")
     }
+    func login(){
+        print("login")
+    }
 
 }
 
