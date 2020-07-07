@@ -25,6 +25,10 @@ class ViewController: UIViewController {
         print("welcome eveybody ;)")
 >>>>>>> ab916cc420903aa2763e29185ba926a0c0cebcd5
     }
+    
+    func style(){
+        print(":( :( ")
+    }
 
 
 }
